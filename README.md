@@ -1,3 +1,18 @@
+---
+overview: 
+  - name: 'Davide Vitiello'
+    orcid: 0000-0002-8885-3934
+    email: davide-vitiello@outlook.com
+    affiliations:
+      - name: Rejuvenate Biomed
+        city: Hasselt
+        country: Belgium
+      - name: ETH Zuerich
+        city: Zuerich
+        country: Switzerland
+      - name: Rarespot.io
+---
+
 - 👋 Hi, I’m Davide
 - 👀 I’m interested in Machine Learning, Creative Coding, D3.js, Natural Language Processing, blockchain and data visualization
 - 🌱 I’m currently learning to master D3.js for complex data pipelines and managing full-stack NFT blockchain platform rarespot.io 
