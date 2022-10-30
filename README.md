@@ -17,7 +17,7 @@ overview:
 - 👀 I’m interested in Machine Learning, Creative Coding, D3.js, Natural Language Processing, blockchain and data visualization
 - 🌱 I’m currently learning to master D3.js for complex data pipelines and managing full-stack NFT blockchain platform rarespot.io 
 - 💞️ I’m looking to collaborate on anything requiring automatization effort
-- 📫 Please reach out on davide-vitiello@outlook.com
+- 📫 Please reach out on davide_vitiello@outlook.com
 
 ### Web Development (Front & Back End)
 
