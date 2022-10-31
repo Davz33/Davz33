@@ -2,7 +2,7 @@
 overview: 
   - name: 'Davide Vitiello'
     orcid: 0000-0002-8885-3934
-    email: davide-vitiello@outlook.com
+    email: davide_vitiello@outlook.com
     affiliations:
       - name: Rejuvenate Biomed
         city: Hasselt
