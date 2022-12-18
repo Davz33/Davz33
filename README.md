@@ -18,7 +18,8 @@ overview:
 
 - 👋 Hi, I’m Davide
 - 👀 I’m interested in Machine Learning, Creative Coding, D3.js, Natural Language Processing, blockchain and data visualization
-- 🌱 I’m currently learning to master D3.js for complex data pipelines and managing full-stack NFT blockchain platform rarespot.io 
+- 🌱 I’m currently working as Lead Data Engineer, Data scientist and IT Architect and managing full-stack the NFT statistical processing platform rarespot.io (blockchain data)
+- 👀 If you happen to work with SQL, Apache Airflow, Docker containers and AWS, give a quick glance at [my tutorials](https://github.com/Davz33/tutorials/wiki/)
 - 💞️ I’m looking to collaborate on anything requiring automatization effort
 - 📫 Please reach out on davide_vitiello@outlook.com
 
