@@ -4,9 +4,9 @@ overview:
     orcid: 0000-0002-8885-3934
     email: davide_vitiello@outlook.com
     affiliations:
-      - name: Rejuvenate Biomed
-        city: Hasselt
-        country: Belgium
+      - name: Rarespot.io
+        city: Milan
+        country: Italy
       - name: ETH Zuerich
         city: Zuerich
         country: Switzerland
