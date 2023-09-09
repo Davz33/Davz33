@@ -4,13 +4,12 @@ overview:
     orcid: 0000-0002-8885-3934
     email: davide_vitiello@outlook.com
     affiliations:
-      - name: Rarespot.io
-        city: Milan
-        country: Italy
-      - name: ETH Zuerich
-        city: Zuerich
+      - name: Mirai-Solution
+        city: Zürich
         country: Switzerland
-      - name: Rarespot.io
+      - name: ETH Zuerich
+        city: Züerich
+        country: Switzerland
 ---
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Davz33&border_radius=8&count_private=true&custom_title=Stats&include_all_commits=true&show_icons=true&theme=outrun)
