@@ -1,17 +1,10 @@
 ---
-overview: 
-  - name: 'Davide Vitiello'
-    orcid: 0000-0002-8885-3934
-    email: davide_vitiello@outlook.com
----
-
+name: 'Davide Vitiello'
+orcid: 0000-0002-8885-3934
+email: davide_vitiello@outlook.com
 affiliations:
- - Mirai-Solution,
-    city: Zürich,
-    country: Switzerland
- - ETH Zuerich,
-    city: Zürich,
-    country: Switzerland
+  - Mirai-Solutions
+  - ETH Zürich
 ---
 
 - 👋 Hi, I’m Davide
