@@ -15,46 +15,31 @@ overview:
 ![Stats](https://github-readme-stats.vercel.app/api?username=Davz33&border_radius=8&count_private=true&custom_title=Stats&include_all_commits=true&show_icons=true&theme=outrun)
 
 - 👋 Hi, I’m Davide
-- 👀 I’m interested in Machine Learning, Creative Coding, D3.js, Natural Language Processing, blockchain and data visualization
-- 🌱 I’m currently working as Lead Data Engineer, Data scientist and IT Architect and managing full-stack the NFT statistical processing platform rarespot.io (blockchain data)
+- 👀 I’m interested in Machine Learning, Det. and Probabilistic problems optimization, Creative Coding, Natural Language Processing, blockchain and data visualization
+- 🌱 I’m currently working as Software Engineer at Mirai-Solutions (Zürich)
 - 👀 If you happen to work with SQL, Apache Airflow, Docker containers and AWS, give a quick glance at [my tutorials](https://github.com/Davz33/tutorials/wiki/)
-- 💞️ I’m looking to collaborate on anything requiring automatization effort
-- 📫 Please reach out on davide_vitiello@outlook.com
+- 📫 Please reach out on davide_vitiello@outlook.com if need be
 
-### Web Development (Front & Back End)
+<img align="left" alt="Linux" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Light.svg" />
+<img align="left" alt="MS Windows" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Windows-Light.svg" />
+<img align="left" alt="macOS" width="40px" src="https://user-images.githubusercontent.com/61201794/219880289-ce4cd3bc-4d42-4de4-8561-5dc6a170580c.png" />
+<img align="left" alt="Bash" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Light.svg" />
+<img align="left" alt="CMake" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CMake-Light.svg" />
+<img align="left" alt="CUDA" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/f331643be7c1fe0fe9859281cf79d144e411b359/icons/Cuda-Light.svg" />
+<img align="left" alt="Azure" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Azure-Light.svg" />
+<img align="left" alt="AWS" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Light.svg" />
+<img align="left" alt="Docker" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" />
+<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Light.svg" />
+<img align="left" alt="VSCode" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Light.svg" />
+<img align="left" alt="PyCharm" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PyCharm-Light.svg" />
+<img align="left" alt="CPP" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" />
+<img align="left" alt="PHP" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Light.svg" />
+<img align="left" alt="Perl" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Perl.svg" />
+<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Light.svg" />
+<img align="left" alt="R" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/R-Light.svg" />
+<img align="left" alt="Keras" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" />
+<img align="left" alt="TensorFlow" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TensorFlow-Light.svg" />
 
-<img align="left" alt="HTML" width="80px" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-image-logo-html-7.png" />
-
-<img align="left" alt="CSS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />
-
-<img align="left" alt="JS" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
-
-<img align="left" alt="JQUERY" width="60px" src="https://openjsf.org/wp-content/uploads/sites/84/2019/10/jquery-logo-vertical_large_square.png" />
-
-<img align="left" alt="React" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" />
-
-<img align="left" alt="Next" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" />
-
-<img align="left" alt="GraphQL" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" />
-
-<br /><br /><br /><br />
-
-<img align="left" alt="Node" width="60px" src="https://www.pngitem.com/pimgs/m/520-5202823_nodejs-node-js-logo-png-transparent-png.png" />
-
-
-<img align="left" alt="Postgres" width="60px" src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" />
-
-
-<img align="left" alt="mysql" width="60px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />
-
-
-<br /><br /><br /><br />
-
-### Data Science:
-
-<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-
-<img align="left" alt="R" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
 
 
 <!---
