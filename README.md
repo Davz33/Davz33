@@ -12,6 +12,7 @@ affiliations:
 - 🌱 I’m currently working as Software Engineer at Mirai-Solutions (Zürich).
 - 👀 If you happen to work with SQL, Apache Airflow, Docker containers and AWS, give a quick glance at [my tutorials](https://github.com/Davz33/tutorials/wiki/).
 - 📫 Please reach out on davide_vitiello@outlook.com if need be.
+- 🧵 Read my [AI related 🤖](https://davz33.github.io/knowledge-boost/) tutorial content if you got some time 😉
 ---
 <img align="left" alt="Linux" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Light.svg" />
 <img align="left" alt="MS Windows" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Windows-Light.svg" />
