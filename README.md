@@ -13,7 +13,9 @@ affiliations:
 - 👀 If you happen to work with SQL, Apache Airflow, Docker containers and AWS, give a quick glance at [my tutorials](https://github.com/Davz33/tutorials/wiki/).
 - 📫 Please reach out on davide_vitiello@outlook.com if need be.
 - 🧵 Read my [AI related 🤖](https://davz33.github.io/knowledge-boost/) or [general](https://davidevitiello.netlify.app/tutorials) tutorial content if you got some time 😉
+  
 ---
+
 <img align="left" alt="Linux" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Light.svg" />
 <img align="left" alt="MS Windows" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Windows-Light.svg" />
 <img align="left" alt="macOS" width="40px" src="https://user-images.githubusercontent.com/61201794/219880289-ce4cd3bc-4d42-4de4-8561-5dc6a170580c.png" />
@@ -34,7 +36,6 @@ affiliations:
 <img align="left" alt="Keras" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" />
 <img align="left" alt="TensorFlow" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TensorFlow-Light.svg" />
 
----
 <br/><br/><br/><hr>
   <div style="display: flex;align-items: center;justify-content: center;">
     <div style="max-width: 25%;max-height:15%;float: left;"><img width="80px" src="LIBC_philosophy_nobg.jpg" /></div>
