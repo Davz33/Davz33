@@ -34,6 +34,15 @@ affiliations:
 <img align="left" alt="Keras" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" />
 <img align="left" alt="TensorFlow" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TensorFlow-Light.svg" />
 
+---
+<br/><br/><br/><hr>
+  <div style="display: flex;align-items: center;justify-content: center;">
+    <div style="max-width: 25%;max-height:15%;float: left;"><img width="80px" src="LIBC_philosophy_nobg.jpg" /></div>
+    <div stlye="font-size: 20px;padding-left: 20px;padding-top: 20%;float: left;">
+    Proud adopter of LBC and IBC philosophies (LIBC):
+      Logical but Creative (LBC) and Independent but Collaborative (IBC)     
+    </div>
+  </div>
 
 
 <!---
