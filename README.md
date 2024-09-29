@@ -1,12 +1,22 @@
 ---
 name: 'Davide Vitiello'
-orcid: 0000-0002-8885-3934
-email: davide_vitiello@outlook.com
-affiliations:
-  - Mirai-Solutions
-  - ETH Zürich
+orcid: '0000-0002-8885-3934'
 ---
+---
+affiliations:
+  - [Mirai Solutions](https://mirai-solutions.ch/)
+  - [ETH Zürich](https://ethz.ch/en.html)
+  - [Artificial Intelligence Research (ART)](https://art.uniroma2.it/) lab. at Tor Vergata U. in Rome
 
+email: [davide_vitiello@outlook.com](mailto:davide_vitiello@outlook.com)  
+linkedin: [linkedin.com/in/davidevitiello2144](linkedin.com/in/davidevitiello2144)
+
+Scientific Research Portfolio:
+  - [orcid.org/0000-0002-8885-3934](orcid.org/0000-0002-8885-3934)
+  - [doi.org/10.1016/j.jbc.2022.102085](doi.org/10.1016/j.jbc.2022.102085)
+  - [doi.org/10.3389/fgene.2021.694033](doi.org/10.3389/fgene.2021.694033)
+  - [hdl.handle.net/2108/211477](hdl.handle.net/2108/211477)
+---
 - 👋 Hi, I’m Davide
 - 👀 I’m interested in Machine Learning, Det. and Probabilistic problems optimization, Creative Coding, Natural Language Processing, blockchain and data visualization-
 - 🌱 I’m currently working as Software Engineer at Mirai-Solutions (Zürich).
