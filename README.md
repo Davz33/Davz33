@@ -16,14 +16,17 @@ Scientific Research Portfolio:
   - [doi.org/10.1016/j.jbc.2022.102085](https://doi.org/10.1016/j.jbc.2022.102085)
   - [doi.org/10.3389/fgene.2021.694033](https://doi.org/10.3389/fgene.2021.694033)
   - [hdl.handle.net/2108/211477](https://hdl.handle.net/2108/211477)
+
+Websites:
+  - Guide on Python use for intermediate/advanced users in enterprise settings: [https://mirai-solutions.ch/python-training-material/](https://mirai-solutions.ch/python-training-material/)
+  - [AI related 🤖](https://davz33.github.io/knowledge-boost/) tutorials and learning material
+  - Broader [tuorials and guides](https://davidevitiello.netlify.app/tutorials) : linux sys admin, Docker, git, Apache Airflow, productivity tips and more...
 ---
 - 👋 Hi, I’m Davide
 - 👀 I’m interested in Machine Learning, Det. and Probabilistic problems optimization, Creative Coding, Natural Language Processing, blockchain and data visualization-
 - 🌱 I’m currently working as Software Engineer at Mirai-Solutions (Zürich).
 - 👀 If you happen to work with SQL, Apache Airflow, Docker containers and AWS, give a quick glance at [my tutorials](https://github.com/Davz33/tutorials/wiki/).
 - 📫 Please reach out on davide_vitiello@outlook.com if need be.
-- 🧵 Read my [AI related 🤖](https://davz33.github.io/knowledge-boost/) or [general](https://davidevitiello.netlify.app/tutorials) tutorial content if you got some time 😉
-  
 ---
 
 <img align="left" alt="Linux" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Light.svg" />
