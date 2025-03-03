@@ -29,7 +29,9 @@ orcid: '0000-0002-8885-3934'
 <img align="left" alt="R" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/R-Light.svg" />
 <img align="left" alt="Keras" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" />
 <img align="left" alt="TensorFlow" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TensorFlow-Light.svg" />
----
+
+<br><br><br><p>
+
 affiliations:
   - [Mirai Solutions](https://mirai-solutions.ch/)
   - [ETH Zürich](https://ethz.ch/en.html)
