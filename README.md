@@ -3,25 +3,6 @@ name: 'Davide Vitiello'
 orcid: '0000-0002-8885-3934'
 ---
 ---
-affiliations:
-  - [Mirai Solutions](https://mirai-solutions.ch/)
-  - [ETH Zürich](https://ethz.ch/en.html)
-  - [Artificial Intelligence Research (ART)](https://art.uniroma2.it/) lab. at Tor Vergata U. in Rome
-
-email: [davide_vitiello@outlook.com](mailto:davide_vitiello@outlook.com)  
-linkedin: [linkedin.com/in/davidevitiello2144](https://linkedin.com/in/davidevitiello2144)
-
-Scientific Research Portfolio:
-  - [orcid.org/0000-0002-8885-3934](https://orcid.org/0000-0002-8885-3934)
-  - [doi.org/10.1016/j.jbc.2022.102085](https://doi.org/10.1016/j.jbc.2022.102085)
-  - [doi.org/10.3389/fgene.2021.694033](https://doi.org/10.3389/fgene.2021.694033)
-  - [hdl.handle.net/2108/211477](https://hdl.handle.net/2108/211477)
-
-Websites:
-  - Guide on Python use for intermediate/advanced users in enterprise settings: [https://mirai-solutions.ch/python-training-material/](https://mirai-solutions.ch/python-training-material/)
-  - [AI related 🤖](https://davz33.github.io/knowledge-boost/) tutorials and learning material
-  - Broader [tuorials and guides](https://davidevitiello.netlify.app/tutorials) : linux sys admin, Docker, git, Apache Airflow, productivity tips and more...
----
 - 👋 Hi, I’m Davide
 - 👀 I’m interested in Machine Learning, Det. and Probabilistic problems optimization, Creative Coding, Natural Language Processing, blockchain and data visualization-
 - 🌱 I’m currently working as Software Engineer at Mirai-Solutions (Zürich).
@@ -48,6 +29,25 @@ Websites:
 <img align="left" alt="R" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/R-Light.svg" />
 <img align="left" alt="Keras" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" />
 <img align="left" alt="TensorFlow" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TensorFlow-Light.svg" />
+---
+affiliations:
+  - [Mirai Solutions](https://mirai-solutions.ch/)
+  - [ETH Zürich](https://ethz.ch/en.html)
+  - [Artificial Intelligence Research (ART)](https://art.uniroma2.it/) lab. at Tor Vergata U. in Rome
+
+email: [davide_vitiello@outlook.com](mailto:davide_vitiello@outlook.com)  
+linkedin: [linkedin.com/in/davidevitiello2144](https://linkedin.com/in/davidevitiello2144)
+
+Scientific Research Portfolio:
+  - [orcid.org/0000-0002-8885-3934](https://orcid.org/0000-0002-8885-3934)
+  - [doi.org/10.1016/j.jbc.2022.102085](https://doi.org/10.1016/j.jbc.2022.102085)
+  - [doi.org/10.3389/fgene.2021.694033](https://doi.org/10.3389/fgene.2021.694033)
+  - [hdl.handle.net/2108/211477](https://hdl.handle.net/2108/211477)
+
+Websites:
+  - Guide on Python use for intermediate/advanced users in enterprise settings: [https://mirai-solutions.ch/python-training-material/](https://mirai-solutions.ch/python-training-material/)
+  - [AI related 🤖](https://davz33.github.io/knowledge-boost/) tutorials and learning material
+  - Broader [tuorials and guides](https://davidevitiello.netlify.app/tutorials) : linux sys admin, Docker, git, Apache Airflow, productivity tips and more...
 
 <br/><br/><br/><hr>
   <div style="display: flex;align-items: center;justify-content: center;">
