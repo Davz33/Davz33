@@ -4,7 +4,7 @@ orcid: '0000-0002-8885-3934'
 ---
 ---
 - 👋 Hi, I’m Davide
-- 👀 I’m interested in Machine Learning, Det. and Probabilistic problems optimization, Creative Coding, Natural Language Processing, blockchain and data visualization-
+- 👀 I’m interested in Data Science / Engineering / Visualization, Machine Learning, Det. and Probabilistic problems optimization, Creative Coding, Natural Language Processing.
 - 🌱 I’m currently working as Software Engineer at Mirai-Solutions (Zürich).
 - 👀 If you happen to work with SQL, Apache Airflow, Docker containers and AWS, give a quick glance at [my tutorials](https://github.com/Davz33/tutorials/wiki/).
 - 📫 Please reach out on davide_vitiello@outlook.com if need be.
