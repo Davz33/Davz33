@@ -9,7 +9,8 @@ orcid: '0000-0002-8885-3934'
 - 👀 If you happen to work with SQL, Apache Airflow, Docker containers and AWS, give a quick glance at [my tutorials](https://github.com/Davz33/tutorials/wiki/).
 - 📫 Please reach out on davide_vitiello@outlook.com if need be.
 ---
-
+<img align="left" alt="Linux" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Dart-Light.svg" />
+<img align="left" alt="Linux" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flutter-Light.svg" />
 <img align="left" alt="Linux" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Light.svg" />
 <img align="left" alt="MS Windows" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Windows-Light.svg" />
 <img align="left" alt="macOS" width="40px" src="https://user-images.githubusercontent.com/61201794/219880289-ce4cd3bc-4d42-4de4-8561-5dc6a170580c.png" />
