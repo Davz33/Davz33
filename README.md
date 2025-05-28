@@ -45,10 +45,7 @@ Scientific Research Portfolio:
   - [doi.org/10.3389/fgene.2021.694033](https://doi.org/10.3389/fgene.2021.694033)
   - [hdl.handle.net/2108/211477](https://hdl.handle.net/2108/211477)
 
-Websites:
-  - Guide on Python use for intermediate/advanced users in enterprise settings: [https://mirai-solutions.ch/python-training-material/](https://mirai-solutions.ch/py-techguides/)
-  - [AI related 🤖](https://davz33.github.io/knowledge-boost/) tutorials and learning material
-  - Broader [tuorials and guides](https://davidevitiello.netlify.app/tutorials) : linux sys admin, Docker, git, Apache Airflow, productivity tips and more...
+Have a look at my Python Tutorials for intermediate/advanced users in enterprise settings: [https://mirai-solutions.ch/python-training-material/](https://mirai-solutions.ch/py-techguides/)
 
 <br/><br/><br/><hr>
   <div style="display: flex;align-items: center;justify-content: center;">
