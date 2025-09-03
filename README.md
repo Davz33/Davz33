@@ -4,9 +4,39 @@ orcid: '0000-0002-8885-3934'
 ---
 ---
 - 👋 Hi, I’m Davide
-- 👀 I’m interested in Data Science / Engineering / Visualization, Machine Learning, Det. and Probabilistic problems optimization, Creative Coding, Natural Language Processing.
+- 👀 I’m interested in GenAI, Computer Vision, Data Science / Engineering / Visualization, Det. and Probabilistic problems optimization, Creative Coding, Natural Language Processing.
 - 📫 Please reach out on davide_vitiello@outlook.com if need be.
 ---
+<img align="left" alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/typescript.png" />
+
+<img align="left" alt="LangChain" width="40px" src="https://seeklogo.com/images/L/langchain-logo-528369AE31-seeklogo.com.svg" />
+
+<img align="left" alt="LangGraph" width="40px" src="https://seeklogo.com/images/L/langgraph-logo-6164296018-seeklogo.com.svg" />
+
+<img align="left" alt="Rust" width="40px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/rust.png" />
+
+<img align="left" alt="PyTorch" width="40px" src="https://commons.wikimedia.org/wiki/Special:FilePath/PyTorch_logo_black.svg" />
+
+<img align="left" alt="OpenCV" width="40px" src="https://en.wikipedia.org/wiki/Special:FilePath/OpenCV_Logo_with_text_svg_version.svg" />
+
+<img align="left" alt="Weights & Biases" width="40px" src="https://raw.githubusercontent.com/wandb/client/master/assets/logo-dark.svg" />
+
+<img align="left" alt="Machine Learning" width="40px" src="https://az-icons.com/svg/machine-learning.svg" />
+
+<img align="left" alt="Vector Embedding" width="40px" src="https://raw.githubusercontent.com/facebookresearch/faiss/main/resources/faiss_logo.svg" />
+
+<img align="left" alt="Pandas" width="40px" src="https://commons.wikimedia.org/wiki/Special:FilePath/Pandas_logo_2016.svg" />
+
+<img align="left" alt="Polars" width="40px" src="https://raw.githubusercontent.com/pola-rs/polars-resources/main/assets/Polars-Mark.svg" />
+
+<img align="left" alt="GenAI" width="40px" src="https://raw.githubusercontent.com/lobehub/lobe-icons/main/icons/genai.svg" />
+
+<img align="left" alt="Kubernetes" width="40px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/kubernetes.png" />
+
+<img align="left" alt="Prometheus" width="40px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/prometheus.png" />
+
+<img align="left" alt="Grafana" width="40px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/grafana.png" />
+
 <img align="left" alt="Linux" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Dart-Light.svg" />
 <img align="left" alt="Linux" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flutter-Light.svg" />
 <img align="left" alt="Linux" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Light.svg" />
