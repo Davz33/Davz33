@@ -62,12 +62,11 @@ orcid: '0000-0002-8885-3934'
 <br><br><br><p>
 
 affiliations:
-  - [Mirai Solutions](https://mirai-solutions.ch/)
   - [ETH Zürich](https://ethz.ch/en.html)
   - [Artificial Intelligence Research (ART)](https://art.uniroma2.it/) lab. at Tor Vergata U. in Rome
 
 email: [davide_vitiello@outlook.com](mailto:davide_vitiello@outlook.com)  
-linkedin: [linkedin.com/in/davidevitiello2144](https://linkedin.com/in/davidevitiello2144)
+linkedin: [linkedin.com/in/davidevitiello2144](https://linkedin.com/in/davidevitiello0)
 
 Scientific Research Portfolio:
   - [orcid.org/0000-0002-8885-3934](https://orcid.org/0000-0002-8885-3934)
