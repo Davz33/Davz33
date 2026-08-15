@@ -43,8 +43,10 @@ My work and personal projects explore how rigorous research, practical tools, an
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Polars](https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Vector Embedding](https://img.shields.io/badge/Vector_Embedding-000000?style=flat-square&logo=facebook&logoColor=white)
 
 **Cloud, DevOps & Infrastructure**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
@@ -55,6 +57,8 @@ My work and personal projects explore how rigorous research, practical tools, an
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
 **Tools & Frameworks**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -64,6 +68,8 @@ My work and personal projects explore how rigorous research, practical tools, an
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Perl](https://img.shields.io/badge/Perl-39457E?style=flat-square&logo=perl&logoColor=white)
 
 I’m especially interested in lightweight, reproducible systems that combine research, automation, and clear presentation.
 
@@ -95,3 +101,25 @@ The goal is useful understanding.
 ## Let’s connect
 
 I’m open to conversations about health technology, longevity research, scientific communication, automation, and interesting technical experiments.
+
+## Affiliations & Research
+
+**Affiliations:**
+- [ETH Zürich](https://ethz.ch/en.html)
+- [Artificial Intelligence Research (ART)](https://art.uniroma2.it/) lab. at Tor Vergata U. in Rome
+
+**Scientific Research Portfolio:**
+- [ORCID: 0000-0002-8885-3934](https://orcid.org/0000-0002-8885-3934)
+- [doi.org/10.1016/j.jbc.2022.102085](https://doi.org/10.1016/j.jbc.2022.102085)
+- [doi.org/10.3389/fgene.2021.694033](https://doi.org/10.3389/fgene.2021.694033)
+- [hdl.handle.net/2108/211477](https://hdl.handle.net/2108/211477)
+
+**Contact:**
+- Email: [davide_vitiello@outlook.com](mailto:davide_vitiello@outlook.com)
+- LinkedIn: [linkedin.com/in/davidevitiello0](https://linkedin.com/in/davidevitiello0)
+
+---
+<div align="center">
+  <img width="80px" src="LIBC_philosophy_nobg.jpg" alt="LIBC Philosophy" />
+  <p><em>Proud adopter of LBC and IBC philosophies (LIBC):<br>Logical but Creative (LBC) and Independent but Collaborative (IBC)</em></p>
+</div>
