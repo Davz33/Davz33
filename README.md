@@ -1,27 +1,42 @@
 # Hi, I'm Davide 👋
 
-### Health, technology, and thoughtful experimentation
+### AI Engineer · Data Scientist · Health & Longevity Research
 
-I’m a multilingual researcher and builder interested in the intersection of **health optimization, medical science, longevity, and technology**.
+I’m a multilingual **AI Engineer and Data Scientist** based in Zurich, working at the intersection of **generative AI, cloud systems, medical science, and longevity research**.
 
-My work and personal projects explore how rigorous research, practical tools, and clear communication can help people make better decisions about their health and future.
+Currently a **GenAI Engineer at [Studio Jadu](https://www.studiojadu.com/)**, I build practical AI systems for creative production. Before that I shipped data platforms and cloud tooling at Mirai Solutions (including work with Zurich Insurance and Oasis LMF), and earlier led ML for drug discovery and lifespan research.
+
+## Experience highlights
+
+- **GenAI Engineer — Studio Jadu** (Oct 2025–Present, Zurich) — generative AI for animation and creator workflows
+- **Data & Software Engineer — Mirai Solutions** (2023–2025, Zurich) — high-performance Python/Polars analytics, Azure CI/CD, Linux runtime tuning (25–40% latency reduction)
+- **Lead Data Scientist & Software Engineer — Rejuvenate Biomed** (2021–2023) — ML for drug discovery, text mining, and probabilistic modeling
+- **Lead Data & Software Engineer — Rarespot** (2021–2023) — blockchain/NFT market intelligence with Python, R, SQL, and AWS
+- **Scientific Researcher — ETH Zürich** (2019–2020) — CRISPR-Cas9 sgRNA generation at scale; genomic APIs and statistical models
+- **Scientific Researcher — University of Liverpool** (2020–2021) — quantitative bioinformatics for lifespan extension
+
+## Education
+
+- **MSc, Mechatronics, Robotics, and Automation Engineering** — ETH Zürich (2017–2020)
+- **BSc, Computer Science** — University of Rome Tor Vergata, *summa cum laude* (2014–2017); thesis on ontology matching visualization (OntoChord / GENOMA)
+- **EITCA Artificial Intelligence** — deep learning, TensorFlow, PyTorch, Google Cloud AI (2023)
 
 ## What I’m interested in
 
 - Evidence-based health optimization and longevity research
-- Medical therapies, recovery, breathwork, and human performance
-- Scientific analysis of supplements, protocols, and emerging technologies
-- Automation, cloud tooling, APIs, and developer workflows
-- Financial technology, investing, and long-term planning
+- Generative AI, vision, and agentic developer tooling
+- Scientific analysis of supplements, protocols, and emerging therapies
+- Cloud platforms (AWS, Azure), APIs, and reproducible automation
+- Financial technology, risk modeling, and long-term planning
 - Digital storytelling, video production, and multilingual communication
 
 ## What I build
 
-- Research tools and scripts for organizing health and scientific information
-- Practical protocols and data-driven experiments
-- Cloud and automation workflows
-- Digital content, scripts, captions, and educational storytelling
-- Small tools that turn complex information into something understandable and useful
+- GenAI pipelines for creative and scientific workflows
+- Research tools for organizing health and biomedical information
+- Cloud and automation systems with CI/CD and security scanning
+- Data platforms, dashboards, and interactive analysis tools
+- Educational content and technical guidelines (e.g. Mirai Python guides)
 
 ## Tools and technologies
 
@@ -34,6 +49,7 @@ My work and personal projects explore how rigorous research, practical tools, an
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Perl](https://img.shields.io/badge/Perl-39457E?style=flat-square&logo=perl&logoColor=white)
 
 **AI, Data & Machine Learning**  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -46,7 +62,6 @@ My work and personal projects explore how rigorous research, practical tools, an
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![Vector Embedding](https://img.shields.io/badge/Vector_Embedding-000000?style=flat-square&logo=facebook&logoColor=white)
 
 **Cloud, DevOps & Infrastructure**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
@@ -69,26 +84,25 @@ My work and personal projects explore how rigorous research, practical tools, an
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Perl](https://img.shields.io/badge/Perl-39457E?style=flat-square&logo=perl&logoColor=white)
 
-I’m especially interested in lightweight, reproducible systems that combine research, automation, and clear presentation.
+Top skills from day-to-day work: **Python, R, Azure, Data Science, AI Vision, Docker, TypeScript**.
 
 ## Current themes
 
-- Making health research more actionable without oversimplifying it
-- Exploring the relationship between physiology, performance, and recovery
-- Building better personal research and knowledge-management workflows
+- Building GenAI systems that keep humans in creative control
+- Making longevity and biomedical research more actionable
+- Lightweight, reproducible cloud and analytics workflows
 - Learning, travelling, hiking, dancing, and exploring new cultures
-- Improving communication across English, Italian, and German-speaking contexts
+- Communicating across English, Italian, and German-speaking contexts
 
 ## Selected projects
 
-- [**visionflow**](https://github.com/Davz33/visionflow) — VisionFlow: Advanced Video Generation & Evaluation Platform with WAN 2.1, LangChain orchestration, and comprehensive evaluation metrics
-- [**Cursor-Local-llm-MCP-proxy**](https://github.com/Davz33/Cursor-Local-llm-MCP-proxy) — MCP server for local LLM with Cursor agent validation and speculative decoding
-- [**farfalle**](https://github.com/Davz33/farfalle) — 🔍 AI search engine - self-host with local or cloud LLMs
-- [**ai-ipf-aging-toolset**](https://github.com/Davz33/ai-ipf-aging-toolset) — AI-driven toolset for IPF and aging research (inspired by Insilico Medicine research)
-- [**pdf-ai-mapper**](https://github.com/Davz33/pdf-ai-mapper) — Tool for processing, categorizing, and searching through PDF documents and images using machine learning and OCR.
-- [**LLM-TabGrouping-Chrome-Extension**](https://github.com/Davz33/LLM-TabGrouping-Chrome-Extension) — A Chrome extension that aims at grouping open web pages into clusters using an API endpoint (using Meta Llama 3.1-8b-instruct in this version).
+- [**visionflow**](https://github.com/Davz33/visionflow) — video generation & evaluation platform with WAN 2.1 and LangChain orchestration
+- [**Cursor-Local-llm-MCP-proxy**](https://github.com/Davz33/Cursor-Local-llm-MCP-proxy) — MCP server for local LLMs with agent validation and speculative decoding
+- [**farfalle**](https://github.com/Davz33/farfalle) — self-hosted AI search engine for local or cloud LLMs
+- [**ai-ipf-aging-toolset**](https://github.com/Davz33/ai-ipf-aging-toolset) — AI toolset for IPF and aging research
+- [**pdf-ai-mapper**](https://github.com/Davz33/pdf-ai-mapper) — PDF/image categorization and search with ML and OCR
+- [**LLM-TabGrouping-Chrome-Extension**](https://github.com/Davz33/LLM-TabGrouping-Chrome-Extension) — Chrome extension that clusters open tabs via an LLM API
 
 ## A few principles
 
@@ -98,25 +112,28 @@ Rigor without communication stays invisible.
 The goal is useful understanding.
 ```
 
-## Let’s connect
+## Affiliations & research
 
-I’m open to conversations about health technology, longevity research, scientific communication, automation, and interesting technical experiments.
-
-## Affiliations & Research
-
-**Affiliations:**
+**Affiliations**
+- [Studio Jadu](https://www.linkedin.com/company/studio-jadu/)
 - [ETH Zürich](https://ethz.ch/en.html)
-- [Artificial Intelligence Research (ART)](https://art.uniroma2.it/) lab. at Tor Vergata U. in Rome
+- [Artificial Intelligence Research (ART)](https://art.uniroma2.it/) lab, Tor Vergata University (Rome)
 
-**Scientific Research Portfolio:**
+**Scientific portfolio**
 - [ORCID: 0000-0002-8885-3934](https://orcid.org/0000-0002-8885-3934)
-- [doi.org/10.1016/j.jbc.2022.102085](https://doi.org/10.1016/j.jbc.2022.102085)
+- [doi.org/10.1016/j.jbc.2022.102085](https://doi.org/10.1016/j.jbc.2022.102085) — lifespan-associated gene expression (Coro7, Set)
 - [doi.org/10.3389/fgene.2021.694033](https://doi.org/10.3389/fgene.2021.694033)
 - [hdl.handle.net/2108/211477](https://hdl.handle.net/2108/211477)
 
-**Contact:**
+**Also**
+- Python technical guidelines for enterprise settings: [mirai-solutions.ch](https://mirai-solutions.ch/py-techguides/)
+
+## Let’s connect
+
+I’m open to conversations about GenAI, longevity research, scientific communication, cloud automation, and interesting technical experiments.
+
 - Email: [davide_vitiello@outlook.com](mailto:davide_vitiello@outlook.com)
-- LinkedIn: [linkedin.com/in/davidevitiello0](https://linkedin.com/in/davidevitiello0)
+- LinkedIn: [linkedin.com/in/davidevitiello0](https://www.linkedin.com/in/davidevitiello0/)
 
 ---
 <div align="center">
