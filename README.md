@@ -1,92 +1,64 @@
----
-name: 'Davide Vitiello'
-orcid: '0000-0002-8885-3934'
----
----
-- 👋 Hi, I’m Davide
-- 👀 I’m interested in GenAI, Computer Vision, Data Science / Engineering / Visualization, Det. and Probabilistic problems optimization, Creative Coding, Natural Language Processing.
-- 📫 Please reach out on davide_vitiello@outlook.com if need be.
----
-<img align="left" alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/typescript.png" />
+# Hi, I'm Davide 👋
 
-<img align="left" alt="LangChain" width="40px" src="https://seeklogo.com/images/L/langchain-logo-528369AE31-seeklogo.com.svg" />
+### Health, technology, and thoughtful experimentation
 
-<img align="left" alt="LangGraph" width="40px" src="https://seeklogo.com/images/L/langgraph-logo-6164296018-seeklogo.com.svg" />
+I’m a multilingual researcher and builder interested in the intersection of **health optimization, medical science, longevity, and technology**.
 
-<img align="left" alt="Rust" width="40px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/rust.png" />
+My work and personal projects explore how rigorous research, practical tools, and clear communication can help people make better decisions about their health and future.
 
-<img align="left" alt="PyTorch" width="40px" src="https://commons.wikimedia.org/wiki/Special:FilePath/PyTorch_logo_black.svg" />
+## What I’m interested in
 
-<img align="left" alt="OpenCV" width="40px" src="https://en.wikipedia.org/wiki/Special:FilePath/OpenCV_Logo_with_text_svg_version.svg" />
+- Evidence-based health optimization and longevity research
+- Medical therapies, recovery, breathwork, and human performance
+- Scientific analysis of supplements, protocols, and emerging technologies
+- Automation, cloud tooling, APIs, and developer workflows
+- Financial technology, investing, and long-term planning
+- Digital storytelling, video production, and multilingual communication
 
-<img align="left" alt="Weights & Biases" width="40px" src="https://raw.githubusercontent.com/wandb/client/master/assets/logo-dark.svg" />
+## What I build
 
-<img align="left" alt="Machine Learning" width="40px" src="https://az-icons.com/svg/machine-learning.svg" />
+- Research tools and scripts for organizing health and scientific information
+- Practical protocols and data-driven experiments
+- Cloud and automation workflows
+- Digital content, scripts, captions, and educational storytelling
+- Small tools that turn complex information into something understandable and useful
 
-<img align="left" alt="Vector Embedding" width="40px" src="https://raw.githubusercontent.com/facebookresearch/faiss/main/resources/faiss_logo.svg" />
+## Tools and technologies
 
-<img align="left" alt="Pandas" width="40px" src="https://commons.wikimedia.org/wiki/Special:FilePath/Pandas_logo_2016.svg" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 
-<img align="left" alt="Polars" width="40px" src="https://raw.githubusercontent.com/pola-rs/polars-resources/main/assets/Polars-Mark.svg" />
+I’m especially interested in lightweight, reproducible systems that combine research, automation, and clear presentation.
 
-<img align="left" alt="GenAI" width="40px" src="https://raw.githubusercontent.com/lobehub/lobe-icons/main/icons/genai.svg" />
+## Current themes
 
-<img align="left" alt="Kubernetes" width="40px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/kubernetes.png" />
+- Making health research more actionable without oversimplifying it
+- Exploring the relationship between physiology, performance, and recovery
+- Building better personal research and knowledge-management workflows
+- Learning, travelling, hiking, dancing, and exploring new cultures
+- Improving communication across English, Italian, and German-speaking contexts
 
-<img align="left" alt="Prometheus" width="40px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/prometheus.png" />
+## Selected projects
 
-<img align="left" alt="Grafana" width="40px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/grafana.png" />
+- [**visionflow**](https://github.com/Davz33/visionflow) — VisionFlow: Advanced Video Generation & Evaluation Platform with WAN 2.1, LangChain orchestration, and comprehensive evaluation metrics
+- [**Cursor-Local-llm-MCP-proxy**](https://github.com/Davz33/Cursor-Local-llm-MCP-proxy) — MCP server for local LLM with Cursor agent validation and speculative decoding
+- [**farfalle**](https://github.com/Davz33/farfalle) — 🔍 AI search engine - self-host with local or cloud LLMs
+- [**ai-ipf-aging-toolset**](https://github.com/Davz33/ai-ipf-aging-toolset) — AI-driven toolset for IPF and aging research (inspired by Insilico Medicine research)
+- [**pdf-ai-mapper**](https://github.com/Davz33/pdf-ai-mapper) — Tool for processing, categorizing, and searching through PDF documents and images using machine learning and OCR.
+- [**LLM-TabGrouping-Chrome-Extension**](https://github.com/Davz33/LLM-TabGrouping-Chrome-Extension) — A Chrome extension that aims at grouping open web pages into clusters using an API endpoint (using Meta Llama 3.1-8b-instruct in this version).
 
-<img align="left" alt="Linux" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Dart-Light.svg" />
-<img align="left" alt="Linux" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flutter-Light.svg" />
-<img align="left" alt="Linux" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Light.svg" />
-<img align="left" alt="MS Windows" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Windows-Light.svg" />
-<img align="left" alt="macOS" width="40px" src="https://user-images.githubusercontent.com/61201794/219880289-ce4cd3bc-4d42-4de4-8561-5dc6a170580c.png" />
-<img align="left" alt="Bash" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Light.svg" />
-<img align="left" alt="CMake" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CMake-Light.svg" />
-<img align="left" alt="CUDA" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/f331643be7c1fe0fe9859281cf79d144e411b359/icons/Cuda-Light.svg" />
-<img align="left" alt="Azure" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Azure-Light.svg" />
-<img align="left" alt="AWS" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Light.svg" />
-<img align="left" alt="Docker" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" />
-<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Light.svg" />
-<img align="left" alt="VSCode" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Light.svg" />
-<img align="left" alt="PyCharm" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PyCharm-Light.svg" />
-<img align="left" alt="CPP" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" />
-<img align="left" alt="PHP" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Light.svg" />
-<img align="left" alt="Perl" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Perl.svg" />
-<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Light.svg" />
-<img align="left" alt="R" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/R-Light.svg" />
-<img align="left" alt="Keras" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" />
-<img align="left" alt="TensorFlow" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TensorFlow-Light.svg" />
+## A few principles
 
-<br><br><br><p>
+```text
+Curiosity without rigor becomes noise.
+Rigor without communication stays invisible.
+The goal is useful understanding.
+```
 
-affiliations:
-  - [ETH Zürich](https://ethz.ch/en.html)
-  - [Artificial Intelligence Research (ART)](https://art.uniroma2.it/) lab. at Tor Vergata U. in Rome
+## Let’s connect
 
-email: [davide_vitiello@outlook.com](mailto:davide_vitiello@outlook.com)  
-linkedin: [linkedin.com/in/davidevitiello0](https://linkedin.com/in/davidevitiello0)
-
-Scientific Research Portfolio:
-  - [orcid.org/0000-0002-8885-3934](https://orcid.org/0000-0002-8885-3934)
-  - [doi.org/10.1016/j.jbc.2022.102085](https://doi.org/10.1016/j.jbc.2022.102085)
-  - [doi.org/10.3389/fgene.2021.694033](https://doi.org/10.3389/fgene.2021.694033)
-  - [hdl.handle.net/2108/211477](https://hdl.handle.net/2108/211477)
-
-Have a look at my Python Tutorials for intermediate/advanced users in enterprise settings: [https://mirai-solutions.ch/python-training-material/](https://mirai-solutions.ch/py-techguides/)
-
-<br/><br/><br/><hr>
-  <div style="display: flex;align-items: center;justify-content: center;">
-    <div style="max-width: 25%;max-height:15%;float: left;"><img width="80px" src="LIBC_philosophy_nobg.jpg" /></div>
-    <div stlye="font-size: 20px;padding-left: 20px;padding-top: 20%;float: left;">
-    Proud adopter of LBC and IBC philosophies (LIBC):
-      Logical but Creative (LBC) and Independent but Collaborative (IBC)     
-    </div>
-  </div>
-
-
-<!---
-Davz33/Davz33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m open to conversations about health technology, longevity research, scientific communication, automation, and interesting technical experiments.
